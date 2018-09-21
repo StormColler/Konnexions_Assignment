@@ -1,0 +1,41 @@
+
+ .signup-page 
+
+
+.form {
+  position: relative;
+  background: #07ff9c;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 20px;
+  text-align: center;
+}
+.form input {
+  font-family: "COMIC SANS MS", sans-serif;
+  outline: 10;
+  background: #ffffff;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "courier new header", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #595959;
+  width: 100%;
+  border: 0;
+  padding: 10px;
+  color: #07ff9c;
+  font-size: 17px; 
+  cursor: pointer;
+}
+body {
+ background: #010f0e;
+    font-size: "Roboto", sans-serif;
+  text-align: center;
+
+}
